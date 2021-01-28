@@ -17,3 +17,5 @@ shades({
   shadowType: 'soft',
 })
 ```
+
+![image](https://user-images.githubusercontent.com/40190772/106209828-67596080-61ce-11eb-99c2-512f99b99b89.png)
