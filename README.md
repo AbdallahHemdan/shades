@@ -1,5 +1,5 @@
 # About
-> Shades is a library proving a very beautiful shades
+> Shades is a lightweight lol library proving a very beautiful shades for idiots
 
 ## Installation
 
